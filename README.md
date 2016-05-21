@@ -1,2 +1,2 @@
 # teste-do-mercado
-Desafio Finalizado em 31 de abril de 2016
+Parcial de 20 de maio de 2016
