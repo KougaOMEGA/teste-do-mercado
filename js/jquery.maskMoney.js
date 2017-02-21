@@ -399,4 +399,4 @@
             $.error("Method " +  method + " does not exist on jQuery.maskMoney");
         }
     };
-})(window.jQuery || window.Zepto);
+})(window.jQuery || window.Zepto); 
