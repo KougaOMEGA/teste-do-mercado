@@ -1,2 +1,2 @@
 # teste-do-mercado
-Finalizado de 20 de maio de 2016
+Finalizado de 21 de fevereiro de 2017
