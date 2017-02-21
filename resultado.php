@@ -10,7 +10,6 @@
 	<script src="js/validar.js" type="text/javascript"></script>
 	<script src="js/jquery.maskMoney.js" type="text/javascript"></script>
 	<link rel="stylesheet" href="css/style.css">
-
 </head>
 <body>
 
